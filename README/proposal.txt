@@ -1,0 +1,83 @@
+Justin Zhang
+justinz
+15112 Spring 2020
+
+Project Proposal
+
+
+            ~~~~~~~~~~~~~PROJECT DESCRIPTION~~~~~~~~~~~~~
+
+Social Heroes: A top down 'shooter' game where you are 
+                               a volunteer organization in a van where
+                               you 'shoot' volunteers at people in need
+                               (or as some people call them, enemies).
+
+            ~~~~~~~~~~~~~COMPETITIVE ANALYSIS~~~~~~~~~~~~~
+There are a lot of shooter games in general that I take inspiration from.
+I want to emulate the side scrolling dungeons of legend of Zelda 2d games,
+except with shooting as the main concept. Although it isn't a top down shooter, 
+there is also the power up drops from the Metal Slug series I would like to put 
+into my game. For example, I would like a rocket launcher type power up in the 
+game. The originality and premise that I came up with for 'Social Heroes' is what 
+I hope differentiates it from other games like it while still drawing elements 
+from the genre.
+
+            ~~~~~~~~~~~~~STRUCTURAL PLAN~~~~~~~~~~~~~
+
+
+The main game file
+    |             |
+'Images Folder'   'pygame python files'
+    |
+Background,GameObject images
+
+            ~~~~~~~~~~~~~ALGORITHMIC PLAN~~~~~~~~~~~~~
+
+The trickiest part of the project is having multiple stages of the game,
+like a title screen, level 1, level 2, etc. I am accounting for this by
+taking an object oriented programming approach to how my code is written.
+For example the title screen is superclassed from the background class I 
+wrote, and the player and enemies are superclassed from the game object class.
+This will give me the organization needed to run the game seemlessly.
+
+            ~~~~~~~~~~~~~TIMELINE PLAN~~~~~~~~~~~~~
+
+04/20/20: Finalize level 1, which is a scrolling dungeon with different types
+          of enemies, guns, a win condition, and a victory screen.
+
+04/23/20: Create a level 2 where the map is autoscrolled with certain win/lose
+          conditions. Create 2nd draft of sprites that will be close to how they
+          will look in the final game. Add in sounds and music
+
+04/27/20: Finalize options, menus, huds, any bugs. Add extra powerups.
+
+Extra plans if there is time: Create your own level, level 3, multiplayer
+
+            ~~~~~~~~~~~~~VERSION CONTROL PLAN~~~~~~~~~~~~~
+
+I plan to back up my code on github. Picture is of the repo.
+
+            ~~~~~~~~~~~~~MODULE LIST~~~~~~~~~~~~~
+
+Random,pygame
+
+            ~~~~~~~~~~~~~TP2 UPDATE 04/23/20~~~~~~~~~~~~~
+Currently, level 1 is completely functional, and level 2 is in the works.
+I spent a lot of time ironing out bugs since TP1 and I am confident that
+I am reaching what I want the project to be.
+
+As for design updates, I am not sure I want to stick to the original story
+idea as I'm having trouble implementing it in the game. Currently, the game
+looks pretty bland, so I was thinking of changing the setting to a more 
+cyberpunk feel. I want to create at least 3 different enemies, 3 different bosses,
+and 4 different guns (already achieved).
+
+            ~~~~~~~~~~~~~TP3 UPDATE 04/23/20~~~~~~~~~~~~~
+- added a main menu screen
+- added a 'story'
+- finished level 1 and 2
+- created more high quality sprites
+-fine tuned the shooting
+
+
+

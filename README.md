@@ -16,7 +16,7 @@ justinz
 source:https://fsymbols.com/generators/carty/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-DESCRIPTION~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~DESCRIPTION~~~~~~~~~~~~~~~~~~~~~~
 
 Socials Heroes is a pygame game and my 112 term project! You play as a
 young adult driving a truck to his grandma's house because of a rat 
@@ -26,26 +26,32 @@ become a social hero!
 The game is a topdown shooter featuring two levels: the first being an autoscrolling,
 autogenerating highway, and the second being a randomised dungeon level. Everytime you
 play, the enemies that spawn and the map layout are different.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-HOW TO RUN~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~HOW TO RUN~~~~~~~~~~~~~~~~~~~~~~~
 
 Run game.py to start the game.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-LIBRARIES NEEDED~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~LIBRARIES NEEDED~~~~~~~~~~~~~~~~~
 
 Pygame and Random are needed
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SHORTCUTS~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~SHORTCUTS~~~~~~~~~~~~~~~~~~~~~~~~
+
 These are some cheat codes
 2,3,4: gives you a machine gun, shotgun, and mortar gun respectively
 0: refills health
 9: increases speed by one stage
 esc: pauses the game
 
-~~~~~~~~~~~~~~~~~~~~~~CODE CITATION~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~CODE CITATION~~~~~~~~~~~~~~~~~~~~
+
 The code of my term project is all selfwritten 
 with help from pygame documentation and building off of the ideas from
 code.Pylet's youtube video tutorial on scrolling backgrounds
@@ -54,9 +60,9 @@ pygame documentation - https://www.pygame.org/docs/
 
 scrolling implementation - https://www.youtube.com/watch?v=AX8YU2hLBUg
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-~~~~~~~~~~~~~~~~~~~~~~IMAGE CITATION~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~IMAGE CITATION~~~~~~~~~~~~~~~~~~~
 The code of my term project is all selfwritten 
 with help from pygame documentation.
 
